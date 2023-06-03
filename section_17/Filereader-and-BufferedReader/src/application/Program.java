@@ -14,6 +14,5 @@ public class Program {
             fr = new FileReader(path);
             br = new BufferedReader(fr);
         }
-        
      }
 }
