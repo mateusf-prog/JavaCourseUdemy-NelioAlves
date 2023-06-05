@@ -3,5 +3,5 @@
 
 
 
-All files in this directory, are owned by Nelio Alves.
+All files 'pdf' in this directory, are owned by Nelio Alves.
 'Instructor: Nelio Alves'
