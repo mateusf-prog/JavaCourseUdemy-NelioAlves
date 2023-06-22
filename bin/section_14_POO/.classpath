@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="abstraction-polymorphism/solved-exercise/src"/>
+	<classpathentry kind="src" path="abstraction-polymorphism/src"/>
+	<classpathentry kind="src" path="inheritance-polymorphism/fixation-exercise/src"/>
+	<classpathentry kind="src" path="inheritance-polymorphism/solved-exercise/src"/>
+	<classpathentry kind="src" path="inheritance-polymorphism/study/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

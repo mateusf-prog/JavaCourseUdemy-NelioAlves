@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="section_10/problem1/src/|section_8/problem2/src/application/|section_10/fixation-vectors-exercises/exercise5/src/|section_14_POO/inheritance-polymorphism/study/src/|section_17_files/FileReader-and-BufferedReader/src/|section_10/exercise-lists/src/|section_7_Functions/|section_10/vectors-challenge/src/|section_10/fixation-vectors-exercises/exercise8/src/|section_10/fixation-vectors-exercises/exercise1/src/|section_8/Exercicio3/src/application/|section_8/membros_estaticos/exercicio1/src/|section_13_POO/enumerations/src/|section_5/|section_10/fixation-vectors-exercises/exercise9/src/|section_6/|section_15_exceptions/try-catch-finally/src/|section_13_POO/composition/solved-exercise(demo springBuilder)/src/|section_4/|section_10/Lists/src/|section_8/problem2/src/entities/entities/|section_9_POO/estudo_construtores/|section_8/Exercicio2/src/application/|section_8/Exercicio2/src/entities/|section_10/exercise-matrix/src/|section_10/fixation-vectors-exercises/exercise2/src/|section_10/fixation-vectors-exercises/exercise3/src/|section_14_POO/inheritance-polymorphism/solved-exercise/src/|section_10/matrices/src/|section_8/Exercicio3/src/|section_8/membros_estaticos/src/|section_14_POO/abstraction-polymorphism/solved-exercise/src/|section_18_interfaces/problem-solution/src/|section_17_files/working-with-files/src/|section_14_POO/inheritance-polymorphism/fixation-exercise/src/|section_10/fixation-vectors-exercises/exercise6/src/|section_13_POO/fixation-exercise/src/|section_9_POO/exercício/src/|section_10/fixation-vectors-exercises/exercise4/src/application/|section_10/problem2/src/|section_13_POO/composition/solved-exercise1/src/|section_17_files/FileWriter-and-BufferedWriter/src/|section_14_POO/abstraction-polymorphism/src/|section_9_POO/encapsulamento/|section_17_files/informations-path-file/src/|section_10/fixation-vectors-exercises/exercise10/src/|section_17_files/manipulate-folders/src/|section_10/fixation-vectors-exercises/exercise7/src/|section_15_exceptions/exception-treatment/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="section_10/exercise-lists/src"/>
+	<classpathentry kind="src" path="section_10/exercise-matrix/src"/>
+	<classpathentry kind="src" path="section_10/fixation-vectors-exercises/exercise1/src"/>
+	<classpathentry kind="src" path="section_10/fixation-vectors-exercises/exercise10/src"/>
+	<classpathentry kind="src" path="section_10/fixation-vectors-exercises/exercise2/src"/>
+	<classpathentry kind="src" path="section_10/fixation-vectors-exercises/exercise3/src"/>
+	<classpathentry kind="src" path="section_10/fixation-vectors-exercises/exercise4/src/application"/>
+	<classpathentry kind="src" path="section_10/fixation-vectors-exercises/exercise5/src"/>
+	<classpathentry kind="src" path="section_10/fixation-vectors-exercises/exercise6/src"/>
+	<classpathentry kind="src" path="section_10/fixation-vectors-exercises/exercise7/src"/>
+	<classpathentry kind="src" path="section_10/fixation-vectors-exercises/exercise8/src"/>
+	<classpathentry kind="src" path="section_10/fixation-vectors-exercises/exercise9/src"/>
+	<classpathentry kind="src" path="section_10/Lists/src"/>
+	<classpathentry kind="src" path="section_10/matrices/src"/>
+	<classpathentry kind="src" path="section_10/problem1/src"/>
+	<classpathentry kind="src" path="section_10/problem2/src"/>
+	<classpathentry kind="src" path="section_10/vectors-challenge/src"/>
+	<classpathentry kind="src" path="section_13_POO/composition/solved-exercise(demo springBuilder)/src"/>
+	<classpathentry kind="src" path="section_13_POO/composition/solved-exercise1/src"/>
+	<classpathentry kind="src" path="section_13_POO/enumerations/src"/>
+	<classpathentry kind="src" path="section_13_POO/fixation-exercise/src"/>
+	<classpathentry kind="src" path="section_14_POO/abstraction-polymorphism/solved-exercise/src"/>
+	<classpathentry kind="src" path="section_14_POO/abstraction-polymorphism/src"/>
+	<classpathentry kind="src" path="section_14_POO/inheritance-polymorphism/fixation-exercise/src"/>
+	<classpathentry kind="src" path="section_14_POO/inheritance-polymorphism/solved-exercise/src"/>
+	<classpathentry kind="src" path="section_14_POO/inheritance-polymorphism/study/src"/>
+	<classpathentry kind="src" path="section_15_exceptions/exception-treatment/src"/>
+	<classpathentry kind="src" path="section_15_exceptions/try-catch-finally/src"/>
+	<classpathentry kind="src" path="section_17_files/FileReader-and-BufferedReader/src"/>
+	<classpathentry kind="src" path="section_17_files/FileWriter-and-BufferedWriter/src"/>
+	<classpathentry kind="src" path="section_17_files/informations-path-file/src"/>
+	<classpathentry kind="src" path="section_17_files/manipulate-folders/src"/>
+	<classpathentry kind="src" path="section_17_files/working-with-files/src"/>
+	<classpathentry kind="src" path="section_18_interfaces/problem-solution/src"/>
+	<classpathentry kind="src" path="section_4"/>
+	<classpathentry kind="src" path="section_5"/>
+	<classpathentry kind="src" path="section_6"/>
+	<classpathentry kind="src" path="section_7_Functions"/>
+	<classpathentry kind="src" path="section_8/Exercicio2/src/application"/>
+	<classpathentry kind="src" path="section_8/Exercicio2/src/entities"/>
+	<classpathentry excluding="application/" kind="src" path="section_8/Exercicio3/src"/>
+	<classpathentry kind="src" path="section_8/Exercicio3/src/application"/>
+	<classpathentry kind="src" path="section_8/membros_estaticos/exercicio1/src"/>
+	<classpathentry kind="src" path="section_8/membros_estaticos/src"/>
+	<classpathentry kind="src" path="section_8/problem2/src/application"/>
+	<classpathentry kind="src" path="section_8/problem2/src/entities/entities"/>
+	<classpathentry kind="src" path="section_9_POO/encapsulamento"/>
+	<classpathentry kind="src" path="section_9_POO/estudo_construtores"/>
+	<classpathentry kind="src" path="section_9_POO/exercício/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

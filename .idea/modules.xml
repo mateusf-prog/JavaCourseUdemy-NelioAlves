@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/section_8/Exercicio2/Exercicio2.iml" filepath="$PROJECT_DIR$/section_8/Exercicio2/Exercicio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_8/Exercicio3/src/Exercicio3.iml" filepath="$PROJECT_DIR$/section_8/Exercicio3/src/Exercicio3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_8/Exercicio3/Exercicio31.iml" filepath="$PROJECT_DIR$/section_8/Exercicio3/Exercicio31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_17_files/FileReader-and-BufferedReader/FileReader-and-BufferedReader.iml" filepath="$PROJECT_DIR$/section_17_files/FileReader-and-BufferedReader/FileReader-and-BufferedReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_17_files/FileWriter-and-BufferedWriter/FileWriter-and-BufferedWriter.iml" filepath="$PROJECT_DIR$/section_17_files/FileWriter-and-BufferedWriter/FileWriter-and-BufferedWriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCourseUdemy-NelioAlves.iml" filepath="$PROJECT_DIR$/JavaCourseUdemy-NelioAlves.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_10/Lists/Lists.iml" filepath="$PROJECT_DIR$/section_10/Lists/Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_14_POO/abstraction-polymorphism/abstraction-polymorphism.iml" filepath="$PROJECT_DIR$/section_14_POO/abstraction-polymorphism/abstraction-polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_8/problem2/src/entities/entities.iml" filepath="$PROJECT_DIR$/section_8/problem2/src/entities/entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_13_POO/enumerations/enumerations.iml" filepath="$PROJECT_DIR$/section_13_POO/enumerations/enumerations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_15_exceptions/exception-treatment/exception-treatment.iml" filepath="$PROJECT_DIR$/section_15_exceptions/exception-treatment/exception-treatment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_8/membros_estaticos/exercicio1/exercicio1.iml" filepath="$PROJECT_DIR$/section_8/membros_estaticos/exercicio1/exercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_10/exercise-lists/exercise-lists.iml" filepath="$PROJECT_DIR$/section_10/exercise-lists/exercise-lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_10/exercise-matrix/exercise-matrix.iml" filepath="$PROJECT_DIR$/section_10/exercise-matrix/exercise-matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_10/fixation-vectors-exercises/exercise1/exercise1.iml" filepath="$PROJECT_DIR$/section_10/fixation-vectors-exercises/exercise1/exercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_10/fixation-vectors-exercises/exercise10/exercise10.iml" filepath="$PROJECT_DIR$/section_10/fixation-vectors-exercises/exercise10/exercise10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_10/fixation-vectors-exercises/exercise2/exercise2.iml" filepath="$PROJECT_DIR$/section_10/fixation-vectors-exercises/exercise2/exercise2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_10/fixation-vectors-exercises/exercise3/exercise3.iml" filepath="$PROJECT_DIR$/section_10/fixation-vectors-exercises/exercise3/exercise3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_10/fixation-vectors-exercises/exercise4/exercise4.iml" filepath="$PROJECT_DIR$/section_10/fixation-vectors-exercises/exercise4/exercise4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_10/fixation-vectors-exercises/exercise5/exercise5.iml" filepath="$PROJECT_DIR$/section_10/fixation-vectors-exercises/exercise5/exercise5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_10/fixation-vectors-exercises/exercise6/exercise6.iml" filepath="$PROJECT_DIR$/section_10/fixation-vectors-exercises/exercise6/exercise6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_10/fixation-vectors-exercises/exercise7/exercise7.iml" filepath="$PROJECT_DIR$/section_10/fixation-vectors-exercises/exercise7/exercise7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_10/fixation-vectors-exercises/exercise8/exercise8.iml" filepath="$PROJECT_DIR$/section_10/fixation-vectors-exercises/exercise8/exercise8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_10/fixation-vectors-exercises/exercise9/exercise9.iml" filepath="$PROJECT_DIR$/section_10/fixation-vectors-exercises/exercise9/exercise9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_9_POO/exercício/exercício.iml" filepath="$PROJECT_DIR$/section_9_POO/exercício/exercício.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_14_POO/inheritance-polymorphism/fixation-exercise/fixation-exercise.iml" filepath="$PROJECT_DIR$/section_14_POO/inheritance-polymorphism/fixation-exercise/fixation-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_13_POO/fixation-exercise/fixation-exercise1.iml" filepath="$PROJECT_DIR$/section_13_POO/fixation-exercise/fixation-exercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_17_files/informations-path-file/informations-path-file.iml" filepath="$PROJECT_DIR$/section_17_files/informations-path-file/informations-path-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_17_files/manipulate-folders/manipulate-folders.iml" filepath="$PROJECT_DIR$/section_17_files/manipulate-folders/manipulate-folders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_10/matrices/matrices.iml" filepath="$PROJECT_DIR$/section_10/matrices/matrices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_8/membros_estaticos/membros_estaticos.iml" filepath="$PROJECT_DIR$/section_8/membros_estaticos/membros_estaticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_10/problem1/problem1.iml" filepath="$PROJECT_DIR$/section_10/problem1/problem1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_8/problem2/src/problem2.iml" filepath="$PROJECT_DIR$/section_8/problem2/src/problem2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_10/problem2/problem21.iml" filepath="$PROJECT_DIR$/section_10/problem2/problem21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_11_Date-time/section_11_Date-time.iml" filepath="$PROJECT_DIR$/section_11_Date-time/section_11_Date-time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_18_interfaces/section_18_interfaces.iml" filepath="$PROJECT_DIR$/section_18_interfaces/section_18_interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_9_POO/section_9_POO.iml" filepath="$PROJECT_DIR$/section_9_POO/section_9_POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_14_POO/inheritance-polymorphism/solved-exercise/solved-exercise.iml" filepath="$PROJECT_DIR$/section_14_POO/inheritance-polymorphism/solved-exercise/solved-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_13_POO/composition/solved-exercise(demo springBuilder)/solved-exercise(demo springBuilder).iml" filepath="$PROJECT_DIR$/section_13_POO/composition/solved-exercise(demo springBuilder)/solved-exercise(demo springBuilder).iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_13_POO/composition/solved-exercise1/solved-exercise1.iml" filepath="$PROJECT_DIR$/section_13_POO/composition/solved-exercise1/solved-exercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_14_POO/abstraction-polymorphism/solved-exercise/solved-exercise2.iml" filepath="$PROJECT_DIR$/section_14_POO/abstraction-polymorphism/solved-exercise/solved-exercise2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_14_POO/inheritance-polymorphism/study/study.iml" filepath="$PROJECT_DIR$/section_14_POO/inheritance-polymorphism/study/study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_15_exceptions/try-catch-finally/try-catch-finally.iml" filepath="$PROJECT_DIR$/section_15_exceptions/try-catch-finally/try-catch-finally.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_10/vectors-challenge/vectors-challenge.iml" filepath="$PROJECT_DIR$/section_10/vectors-challenge/vectors-challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section_17_files/working-with-files/working-with-files.iml" filepath="$PROJECT_DIR$/section_17_files/working-with-files/working-with-files.iml" />
+    </modules>
+  </component>
+</project>

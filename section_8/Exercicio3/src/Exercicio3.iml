@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/application" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="section_9_POO" />
+    <orderEntry type="module" module-name="exercise8" />
+    <orderEntry type="module" module-name="solved-exercise1" />
+    <orderEntry type="module" module-name="vectors-challenge" />
+    <orderEntry type="module" module-name="study" />
+    <orderEntry type="module" module-name="exercise10" />
+    <orderEntry type="module" module-name="section_18_interfaces" />
+    <orderEntry type="module" module-name="exercise9" />
+    <orderEntry type="module" module-name="solved-exercise(demo springBuilder)" />
+    <orderEntry type="module" module-name="fixation-exercise" />
+    <orderEntry type="module" module-name="solved-exercise2" />
+    <orderEntry type="module" module-name="exercise-lists" />
+    <orderEntry type="module" module-name="exercício" />
+    <orderEntry type="module" module-name="Exercicio31" />
+    <orderEntry type="module" module-name="fixation-exercise1" />
+    <orderEntry type="module" module-name="enumerations" />
+    <orderEntry type="module" module-name="abstraction-polymorphism" />
+    <orderEntry type="module" module-name="exercise3" />
+    <orderEntry type="module" module-name="problem21" />
+  </component>
+</module>
