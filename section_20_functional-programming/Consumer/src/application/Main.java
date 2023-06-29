@@ -16,7 +16,7 @@ public  class Main {
         list.add(new Product("tablet", 700.0));
         list.add(new Product("HD case", 80.0));
 
-        list.forEach(new PriceUpdate());
+        list.forEach(Product::staticPriceUpdate);
 
         list.forEach(System.out::println);
     }
