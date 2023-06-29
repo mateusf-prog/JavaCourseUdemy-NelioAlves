@@ -17,7 +17,7 @@ public class Main {
         list.add(new Product("HD case", 80.0));
 
         // method reference
-        list.removeIf(Product ::staticProductPredicate);
+        list.removeIf(Product ::nonStaticProductPredicate);
 
         for (Product p : list) {
             System.out.println(p);
