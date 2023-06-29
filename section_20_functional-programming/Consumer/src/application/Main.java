@@ -17,9 +17,7 @@ public  class Main {
         list.add(new Product("tablet", 700.0));
         list.add(new Product("HD case", 80.0));
 
-        Consumer<Product> cons = p -> p.setPrice(p.getPrice() * 1.1);
-
-        list.forEach(cons);
+        list.forEach(p -> p.setPrice(p.getPrice() * 1.1));
 
         list.forEach(System.out::println);
     }
