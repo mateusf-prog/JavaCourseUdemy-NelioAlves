@@ -16,8 +16,8 @@ public class Main {
         list.add(new Product("tablet", 800.0));
         list.add(new Product("apple watch", 1550.0));
 
-            // sorting the list with funtion lambda syntax
-            list.sort((p1, p2) -> p1.getName().toUpperCase().compareTo(p2.getName().toUpperCase()));
+        // sorting the list with function lambda syntax
+        list.sort((p1, p2) -> p1.getName().toUpperCase().compareTo(p2.getName().toUpperCase()));
 
         for (Product p : list) {
             System.out.println(p);
