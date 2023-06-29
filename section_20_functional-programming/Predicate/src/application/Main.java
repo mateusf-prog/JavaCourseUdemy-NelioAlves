@@ -16,7 +16,8 @@ public class Main {
         list.add(new Product("Mouse", 50.0));
         list.add(new Product("HD case", 80.0));
 
-        list.removeIf(new ProductPredicate());
+        // method reference
+        list.removeIf(Product ::staticProductPredicate);
 
         for (Product p : list) {
             System.out.println(p);
