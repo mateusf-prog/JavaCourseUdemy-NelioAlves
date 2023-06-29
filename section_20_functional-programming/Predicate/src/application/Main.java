@@ -17,9 +17,7 @@ public class Main {
         list.add(new Product("Mouse", 50.0));
         list.add(new Product("HD case", 80.0));
 
-        Predicate<Product> pred = p -> p.getPrice() >= 100;
-
-        list.removeIf(pred);
+        list.removeIf(p -> p.getPrice() >= 100);
 
         for (Product p : list) {
             System.out.println(p);
