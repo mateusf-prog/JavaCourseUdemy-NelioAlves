@@ -17,8 +17,8 @@ public class Main {
         list.add(new Product("Notebook", 1500.0));
         list.add(new Product("HD case", 85.0));
 
-        // apply on each element of the list, an instance of UpperCaseName and convert the stream to list
-        List<String> names = list.stream().map(new UpperCaseName()).collect(Collectors.toList());
+        List<String> names = list.stream().map(Product::staticUpperCaseName).collect(Collectors.toList());
+        //                                     reference to static method
 
         // list.stream = convert the list to stream
         // .map(function) = apply on each element of the list, an instance of UpperCaseName
