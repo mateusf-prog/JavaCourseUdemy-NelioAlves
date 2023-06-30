@@ -2,6 +2,7 @@ package application;
 
 import java.util.Arrays;
 import java.util.List;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class Main {
@@ -30,5 +31,16 @@ public class Main {
         Stream<Long> st5 = Stream.iterate(new Long[] {0L, 1L}, p -> new Long[] {p[1], p[0]+p[1]}).map(p -> p[0]);
         System.out.println(Arrays.toString(st5.limit(10).toArray()));
 
+        System.out.println("\n--------------pipeline-------------\n");
+
+        int sum = list.stream().reduce(0, (x, y) -> x + y);
+        System.out.println("Sum = " + sum);
+
+        List<Integer> lis2 = list.stream()      // create a list and generate a stream
+                .filter(x -> x % 2 == 0)        // filter the list with predicate (even  numbers)
+                .map(x -> x * 10)               // apply map(even number * 10) to result of filter
+                .collect(Collectors.toList());  // go back stream to list
+
+        System.out.println(Arrays.toString(lis2.toArray()));
     }
 }
