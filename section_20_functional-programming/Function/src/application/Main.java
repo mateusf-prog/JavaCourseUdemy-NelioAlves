@@ -5,6 +5,7 @@ import util.UpperCaseName;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.function.Function;
 import java.util.stream.Collectors;
 
 public class Main {
@@ -17,8 +18,10 @@ public class Main {
         list.add(new Product("Notebook", 1500.0));
         list.add(new Product("HD case", 85.0));
 
-        List<String> names = list.stream().map(Product::nonStaticUpperCaseName).collect(Collectors.toList());
-        //                                     reference to non-static method
+        Function<Product, String> func = p -> p.getName().toUpperCase();
+
+        List<String> names = list.stream().map(func).collect(Collectors.toList());
+        //                                 using lambda func
 
         // list.stream = convert the list to stream
         // .map(function) = apply on each element of the list, an instance of UpperCaseName
