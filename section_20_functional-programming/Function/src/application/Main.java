@@ -23,7 +23,7 @@ public class Main {
         //                                           using lambda
 
         // list.stream = convert the list to stream
-        // .map(function) = apply on each element of the list, an instance of UpperCaseName
+        // .map(<>) = apply on each element of the list, an instance of UpperCaseName
         // .collect(Collector.toList()) = return stream to list
 
         names.forEach(System.out::println);
