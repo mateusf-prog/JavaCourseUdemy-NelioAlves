@@ -18,10 +18,9 @@ public class Main {
         list.add(new Product("Notebook", 1500.0));
         list.add(new Product("HD case", 85.0));
 
-        Function<Product, String> func = p -> p.getName().toUpperCase();
 
-        List<String> names = list.stream().map(func).collect(Collectors.toList());
-        //                                 using lambda func
+        List<String> names = list.stream().map(p -> p.getName().toUpperCase()).collect(Collectors.toList());
+        //                                           using lambda
 
         // list.stream = convert the list to stream
         // .map(function) = apply on each element of the list, an instance of UpperCaseName
