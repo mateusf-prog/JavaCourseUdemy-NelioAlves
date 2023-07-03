@@ -15,9 +15,9 @@ public class Program {
         ResultSet rs = null;
 
         try {
-            conn = DB.getConnection();  // starting connection with database
-            st = conn.createStatement(); // instantiating a object Statement with my connection
-            rs = st.executeQuery("select * from department"); // table object
+            conn = DB.getConnection();  // starting connection
+            st = conn.createStatement(); // instantiating a object Statement for sql commands
+            rs = st.executeQuery("select * from department"); // return the result of the query
 
             while (rs.next()) {
                 System.out.println(rs.getInt("Id") + ", " + rs.getString("Name"));
