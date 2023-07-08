@@ -2,15 +2,20 @@ package application;
 
 import dominio.Pessoa;
 
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
 public class Program {
     public static void main(String[] args) {
-        
-        Pessoa p1 = new Pessoa(1, "Mateus", "mateus@gmail.com");
-        Pessoa p2 = new Pessoa(3, "Mark", "mark@gmail.com");
-        Pessoa p3 = new Pessoa(7, "Alex", "alex@gmail.com");
 
-        System.out.println(p1);
-        System.out.println(p2);
-        System.out.println(p3);
+        EntityManagerFactory emf = Persistence.createEntityManagerFactory("Test-PU");
+        EntityManager em = emf.createEntityManager();
+
+        Pessoa p = em.find(Pessoa.class, 3);
+
+        System.out.println(p);
+        System.out.println("Done!");
+
     }
 }
